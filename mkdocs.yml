@@ -1,11 +1,21 @@
 
 ## Project information
 site_name: UW STAB
-site_description: Powered by SurveyPrev and the R Shiny App
 
 theme:
   name: material
+  logo: assets/UW_logo.svg
+  features:
+    - navigavtion.indexes
+    - navigation.tabs            # Static upper section tabs (exist)
+    - navigation.tabs.sticky
+    - navigation.top # back to top button
 
 nav:
 - Home: index.md
 - About Us: team.md
+- Schedule: schedule.md
+
+markdown_extensions: 
+  - attr_list
+  - md_in_html

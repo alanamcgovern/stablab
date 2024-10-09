@@ -15,20 +15,12 @@ hide:
 
 <div class="grid cards" markdown>
 
-- <a href="https://alanamcgovern.github.io" target="_blank">Alana McGovern</a> – PhD Student in Statistics at University of Washington
+- <a href="https://www.ntnu.edu/employees/geir-arne.fuglstad" target="_blank">Geir-Arne Fuglstad </a> – Professor of Statistics, Department of Mathematical Sciences, Norwegian University of Science and Technology
     <figure markdown="span">
-    ![Image title](photos/McGovern.jpg){width='200' }
+    ![Image title](photos/Fuglstad.jpg){width='200' }
     </figure>
     <p style="font-style: italic; padding: 10px; margin: 10px 0; background-color: #f9f9f9; color: #333; border-radius: 5px; text-align: left; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-        small area estimation, Bayesian modeling, spatial modeling
-    </p>
-
-- </a> Andrea Boskovic – PhD Student in Statistics at University of Washington
-    <figure markdown="span">
-    ![Image title](photos/Boskovic.jpg){width='220' }
-    </figure>
-    <p style="font-style: italic; padding: 10px; margin: 10px 0; background-color: #f9f9f9; color: #333; border-radius: 5px; text-align: left; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-        Survey methodology, uncertainty quantification, Bayesian statistics
+        Spatial and spatio-temporal statistics, SPDE models, non-stationary modelling, computational statistics, and spatio-temporal estimation of demographic and health indicators
     </p>
 
 - <a href="https://victoriaknutson.github.io" target="_blank">Victoria Knutson </a> – PhD Student in Biostatistics at University of Washington
@@ -37,6 +29,39 @@ hide:
     </figure>
     <p style="font-style: italic; padding: 10px; margin: 10px 0; background-color: #f9f9f9; color: #333; border-radius: 5px; text-align: left; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
         Bayesian inference, demography, global health, mortality modeling
+    </p>
+
+- <a href="https://alanamcgovern.github.io" target="_blank">Alana McGovern</a> – PhD Student in Statistics at University of Washington
+    <figure markdown="span">
+    ![Image title](photos/McGovern.jpg){width='200' }
+    </figure>
+    <p style="font-style: italic; padding: 10px; margin: 10px 0; background-color: #f9f9f9; color: #333; border-radius: 5px; text-align: left; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+        small area estimation, Bayesian inference, spatial modeling, public health
+    </p>
+
+- <a href="https://aboskovic21.github.io/" target="_blank">Andrea Boskovic </a> – PhD Student in Statistics at University of Washington
+    <figure markdown="span">
+    ![Image title](photos/Boskovic.jpg){width='220' }
+    </figure>
+    <p style="font-style: italic; padding: 10px; margin: 10px 0; background-color: #f9f9f9; color: #333; border-radius: 5px; text-align: left; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+        Survey methodology, uncertainty quantification, Bayesian statistics
+    </p>
+
+
+- <a href="https://scholar.google.com/citations?user=EnqxccIAAAAJ&hl" target="_blank">Awan Afiaz </a> – PhD Student in Biostatistics at University of Washington
+    <figure markdown="span">
+    ![Image title](photos/Awan-photo-UW.jpg){width='200' }
+    </figure>
+    <p style="font-style: italic; padding: 10px; margin: 10px 0; background-color: #f9f9f9; color: #333; border-radius: 5px; text-align: left; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+       longitudinal and correlated data Analysis, survival analysis, global/public Health
+    </p>
+
+- <a>Zihang Yu </a> – Masters Student in Biostatistics at University of Washington
+    <figure markdown="span">
+    ![Image title](photos/zihang_yu.png){width='250' }
+    </figure>
+    <p style="font-style: italic; padding: 10px; margin: 10px 0; background-color: #f9f9f9; color: #333; border-radius: 5px; text-align: left; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+       streamlined analysis pipeline for MICS surveys
     </p>
 
 </div>

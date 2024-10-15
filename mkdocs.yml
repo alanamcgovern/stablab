@@ -13,7 +13,8 @@ theme:
 
 nav:
 - Home: index.md
-- About Us: team.md
+- About Us: history.md
+- People: team.md
 - Schedule: schedule.md
 
 markdown_extensions: 

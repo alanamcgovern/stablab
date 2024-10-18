@@ -16,6 +16,8 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | -----| ------------------------| ---------------------------- | ---------------|
 | 10/1 | Geir-Arne Fuglstad | Norwegian University of Science and Technology | Addressing Positional Anonymisation in Geostatistical Analyses of DHS Data |
 | 10/8 | Ezra Gayawan | Federal University of Technology | An assessment of the impact of women’s empowerment on childhood vaccination coverage in Nigeria: a spatio-temporal analysis|
+| 11/12 | Richard Li | UC Santa Cruz | |
+| 12/3 | Laina Mercer | Institute for Disease Modeling | |
 
 ## Spring Quarter, 2024
 | Date | Presenter | Affiliation | Title |

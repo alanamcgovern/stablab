@@ -16,7 +16,9 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | -----| ------------------------| ---------------------------- | ---------------|
 | 10/1 | Geir-Arne Fuglstad | Norwegian University of Science and Technology | Addressing Positional Anonymisation in Geostatistical Analyses of DHS Data |
 | 10/8 | Ezra Gayawan | Federal University of Technology | An assessment of the impact of women’s empowerment on childhood vaccination coverage in Nigeria: a spatio-temporal analysis|
+| 10/29 | Brian Njuguna | CEMA at University of Nairobi | SAE for soil-transmitted helminthiases |
 | 11/12 | Richard Li | UC Santa Cruz | |
+| 11/26 | Janet van Niekerk | King Abdullah University of Science and Technology | Computation in the INLA package |
 | 12/3 | Laina Mercer | Institute for Disease Modeling | |
 
 ## Spring Quarter, 2024

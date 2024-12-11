@@ -20,7 +20,6 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | 11/5 | Katie Paulson | UW, Department of Biostatistics | Review of penalized complexity priors and scaling for IGMRFs |
 | 11/12 | Richard Li | UC Santa Cruz | Methods for SAE model comparison |
 | 11/26 | Janet van Niekerk | King Abdullah University of Science and Technology | Computation in the INLA package |
-| 12/10 | Laina Mercer | Institute for Disease Modeling | |
 
 ## Spring Quarter, 2024
 | Date | Presenter | Affiliation | Title |

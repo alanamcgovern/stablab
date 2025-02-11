@@ -16,7 +16,7 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | Date | Presenter | Affiliation | Topic |
 | -----| ------------------------| ---------------------------- | ---------------|
 | 1/21 | Peter Diggle | Lancaster University | Spatio-temporal point processes |
-| 2/4 | David Newhouse | World Bank | Povery mapping |
+| 2/4 | David Newhouse | World Bank | Poverty mapping |
 | 2/11 | Herb Susmann & Leontine Alkema |  NYU & UMass Amherst | Modeing shocks to demographic and health indicators |
 
 ## Fall Quarter, 2024

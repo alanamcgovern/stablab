@@ -8,11 +8,20 @@ hide:
 
 The STAB research group meets weekly at the Hans Rosling Center for Population Health and on Zoom. We use this time to update each other regarding our research progress, as well as invite presenters who work in research areas including spatial demography, survey statistics and methodology, and Bayesian modeling and computation.
 
-Meeting times vary each academic quarter based on members' availability. In the fall 2024 quarter, meetings are held on Tuesdays 11am-12pm.
+Meeting times vary each academic quarter based on members' availability. In the winter 2025 quarter, meetings are held on Wednesdays 11:30am-12:30pm PST.
+
+
+## Winter Quarter, 2025
+
+| Date | Presenter | Affiliation | Topic |
+| -----| ------------------------| ---------------------------- | ---------------|
+| 1/21 | Peter Diggle | Lancaster University | Spatio-temporal point processes |
+| 2/4 | David Newhouse | World Bank | Povery mapping |
+| 2/11 | Herb Susmann & Leontine Alkema |  NYU & UMass Amherst | Modeing shocks to demographic and health indicators |
 
 ## Fall Quarter, 2024
 
-| Date | Presenter | Affiliation | Title |
+| Date | Presenter | Affiliation | Topic |
 | -----| ------------------------| ---------------------------- | ---------------|
 | 10/1 | Geir-Arne Fuglstad | Norwegian University of Science and Technology | Addressing Positional Anonymisation in Geostatistical Analyses of DHS Data |
 | 10/8 | Ezra Gayawan | Federal University of Technology | An assessment of the impact of women’s empowerment on childhood vaccination coverage in Nigeria: a spatio-temporal analysis|
@@ -22,7 +31,7 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | 11/26 | Janet van Niekerk | King Abdullah University of Science and Technology | Computation in the INLA package |
 
 ## Spring Quarter, 2024
-| Date | Presenter | Affiliation | Title |
+| Date | Presenter | Affiliation | Topic |
 | -----| ------------------------| ---------------------------- | ---------------|
 | 3/26 | Jim Thorson | NOAA Fisheries | Dynamic structural equation models:  expressive specification for multivariate time-series and spatio-temporal models|
 | 4/2 | Laura Dwyer-Lindgren | UW, Institute for Health Metrics and Evaluation | US Health Disparities Project |
@@ -35,7 +44,7 @@ Meeting times vary each academic quarter based on members' availability. In the 
 
 
 ## Winter Quarter, 2024
-| Date | Presenter | Affiliation | Title |
+| Date | Presenter | Affiliation | Topic |
 | -----| ------------------------| ---------------------------- | ---------------|
 | 1/16 | David Coomes | UW, Department of Epidemiology | Rural mortality and migration in the US|
 | 1/30 | Peter Macharia | Institute of Tropical Medicine, Antwerp | |

@@ -8,7 +8,12 @@ hide:
 
 The STAB research group meets weekly at the Hans Rosling Center for Population Health and on Zoom. We use this time to update each other regarding our research progress, as well as invite presenters who work in research areas including spatial demography, survey statistics and methodology, and Bayesian modeling and computation.
 
-Meeting times vary each academic quarter based on members' availability. In the winter 2025 quarter, meetings are held on Wednesdays 11:30am-12:30pm PST.
+Meeting times vary each academic quarter based on members' availability. In the spring 2025 quarter, meetings are held on Tuesdays 12pm-1pm PST.
+
+## Spring Quarter, 2025
+| Date | Presenter | Affiliation | Topic |
+| -----| ------------------------| ---------------------------- | ---------------|
+| 4/1 | Alex Ziyu Jiang | UW, Department of Statistics | BARTSIMP: flexible spatial covariate modeling and prediction using Bayesian additive regression trees |
 
 
 ## Winter Quarter, 2025
@@ -18,6 +23,9 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | 1/21 | Peter Diggle | Lancaster University | Spatio-temporal point processes |
 | 2/4 | David Newhouse | World Bank | Poverty mapping |
 | 2/11 | Herb Susmann & Leontine Alkema |  NYU & UMass Amherst | Modeing shocks to demographic and health indicators |
+| 2/25 | Jessica Godwin | UW, Center for Studies in Demography and Ecology | Excess Mortality in Puerto Rico following Hurricane María |
+| 3/4 | Ameer Dharamshi | UW, Department of Biostatistics | Exact variance estimation for model-assisted survey estimators using U- and V-statistics |
+
 
 ## Fall Quarter, 2024
 

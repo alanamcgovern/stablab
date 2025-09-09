@@ -14,6 +14,12 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | Date | Presenter | Affiliation | Topic |
 | -----| ------------------------| ---------------------------- | ---------------|
 | 4/1 | Alex Ziyu Jiang | UW, Department of Statistics | BARTSIMP: flexible spatial covariate modeling and prediction using Bayesian additive regression trees |
+| 4/8 | Haoyi Chen | UN, Statistics Division | Geospatial SAE |
+| 4/22 | Nathanial Henry | Henry Spatial Analysis | Model-based geostatistics (MBG) package
+| 4/29 | Gauri Datta | University of Georgia | Application of credible regions for ranks of subpopulations
+| 5/6 | Carolina Franco | NORC at University of Chicago |
+| 5/20 | Peter Hoff | Duke University | FAB intervals
+| 5/27 | Paul Smith and Nikos Tzavidis | University of Southampton | Alternatives to evaluating small area estimates with direct estimates
 
 
 ## Winter Quarter, 2025

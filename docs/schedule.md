@@ -8,7 +8,15 @@ hide:
 
 The STAB research group meets weekly at the Hans Rosling Center for Population Health and on Zoom. We use this time to update each other regarding our research progress, as well as invite presenters who work in research areas including spatial demography, survey statistics and methodology, and Bayesian modeling and computation.
 
-Meeting times vary each academic quarter based on members' availability. In the spring 2025 quarter, meetings are held on Tuesdays 12pm-1pm PST.
+Meeting times vary each academic quarter based on members' availability. In the Autumn 2025 quarter, meetings are held on Tuesdays 12pm-1pm PST.
+
+## Autumn Quarter, 2025
+| Date | Presenter | Affiliation | Topic |
+| -----| ------------------------| ---------------------------- | ---------------|
+| 9/30 | Jon Wakefield | UW, Departments of Statistics & Biostatistics | The two cultures for prevalence mapping: small area estimation and spatial statistics |
+| 10/7 | Richard Li | UC Santa Cruz | SAE Software |
+| 10/21 | Abhi Datta | JHU, Department of Biostatistics | 
+| 11/4 | David Haziza | University of Ottawa, Department of Mathematics and Statistics | 
 
 ## Spring Quarter, 2025
 | Date | Presenter | Affiliation | Topic |

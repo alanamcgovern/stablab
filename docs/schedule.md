@@ -15,8 +15,10 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | -----| ------------------------| ---------------------------- | ---------------|
 | 9/30 | Jon Wakefield | UW, Departments of Statistics & Biostatistics | The two cultures for prevalence mapping: small area estimation and spatial statistics |
 | 10/7 | Richard Li | UC Santa Cruz | SAE Software |
+| 10/14 | Jon Wakefield | UW, Departments of Statistics & Biostatistics | Automatic Variance Adjustment for Fay-Herriot Modeling  |
 | 10/21 | Abhi Datta | JHU, Department of Biostatistics | 
 | 11/4 | David Haziza | University of Ottawa, Department of Mathematics and Statistics | 
+| 11/25 | Laina Mercer | Fred Hutchinson Cancer Center | 
 
 ## Spring Quarter, 2025
 | Date | Presenter | Affiliation | Topic |

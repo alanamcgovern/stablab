@@ -17,7 +17,7 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | 10/7 | Richard Li | UC Santa Cruz | SAE Software |
 | 10/14 | Jon Wakefield | UW, Departments of Statistics & Biostatistics | Automatic Variance Adjustment for Fay-Herriot Modeling  |
 | 10/21 | Abhi Datta | JHU, Department of Biostatistics | Machine learning for geospatial data with explicit modeling of spatial correlations |
-| 11/4 | David Haziza | University of Ottawa, Department of Mathematics and Statistics | 
+| 11/4 | David Haziza | University of Ottawa, Department of Mathematics and Statistics | A Debiased Machine Learning Single-Imputation Framework for Item Nonresponse in Surveys |
 | 11/25 | Laina Mercer | Fred Hutchinson Cancer Center | 
 
 ## Spring Quarter, 2025

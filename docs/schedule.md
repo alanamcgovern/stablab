@@ -8,7 +8,12 @@ hide:
 
 The STAB research group meets weekly at the Hans Rosling Center for Population Health and on Zoom. We use this time to update each other regarding our research progress, as well as invite presenters who work in research areas including spatial demography, survey statistics and methodology, and Bayesian modeling and computation.
 
-Meeting times vary each academic quarter based on members' availability. In the Autumn 2025 quarter, meetings are held on Tuesdays 12pm-1pm PST.
+Meeting times vary each academic quarter based on members' availability. In the Winter 2026 quarter, meetings are held on Tuesdays 12pm-1pm PST.
+
+## Winter Quarter, 2026
+| Date | Presenter | Affiliation | Topic |
+| -----| ------------------------| ---------------------------- | ---------------|
+
 
 ## Autumn Quarter, 2025
 | Date | Presenter | Affiliation | Topic |
@@ -18,7 +23,9 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | 10/14 | Jon Wakefield | UW, Departments of Statistics & Biostatistics | Automatic Variance Adjustment for Fay-Herriot Modeling  |
 | 10/21 | Abhi Datta | JHU, Department of Biostatistics | Machine learning for geospatial data with explicit modeling of spatial correlations |
 | 11/4 | David Haziza | University of Ottawa, Department of Mathematics and Statistics | A Debiased Machine Learning Single-Imputation Framework for Item Nonresponse in Surveys |
-| 11/25 | Laina Mercer | Fred Hutchinson Cancer Center | 
+| 11/25 | Laina Mercer | Fred Hutchinson Cancer Center | |
+| 11/25 | Victoria Knutson | UW, Department of Biostatistics | |
+| 11/25 | Alana McGovern | UW, Department of Statistics | Variance smoothing in Fay Herriot models for small area means |
 
 ## Spring Quarter, 2025
 | Date | Presenter | Affiliation | Topic |

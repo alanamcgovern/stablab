@@ -1,6 +1,6 @@
 /* docs/styles.css */
-.md-content {
-  max-width: 900px;
-  margin: auto;
+.md-content__inner {
+  max-width: 850px;
+  margin: 0 auto;
   padding: 2rem 3rem;
 }

@@ -16,6 +16,7 @@ nav:
 - About Us: history.md
 - People: team.md
 - Schedule: schedule.md
+- Blog: blog.md
 
 markdown_extensions: 
   - attr_list

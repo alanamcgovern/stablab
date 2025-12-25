@@ -22,6 +22,10 @@ Temporal Models for Estimation and Short-Term Forecasting of Neonatal Mortality 
 
 Congratulations Victoria! She will next be doing a postdoc with Jon on the Gates SAE project.
 
+<figure markdown="span">
+    ![Image title](blog photos/victoria_final.png){width='250'}
+</figure>
+
 ### Ameer presents at the NUS-IMS Young Mathematical Scientists Forum in Singapore
 *November 28, 2025*
 

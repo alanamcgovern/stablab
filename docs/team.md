@@ -55,14 +55,6 @@ hide:
         Correlated data, small sample size problems, spatiotemporal modelling, demography
     </p>
 
-- <a href="https://scholar.google.com/citations?user=EnqxccIAAAAJ&hl" target="_blank">Awan Afiaz </a> – PhD Student in Biostatistics at University of Washington
-    <figure markdown="span">
-    ![Image title](photos/Awan-photo-UW.jpg){width='200' }
-    </figure>
-    <p style="font-style: italic; padding: 10px; margin: 10px 0; background-color: #f9f9f9; color: #333; border-radius: 5px; text-align: left; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-       longitudinal and correlated data Analysis, survival analysis, global/public Health
-    </p>
-
 - <a>Zihang Yu </a> – Masters Student in Biostatistics at University of Washington
     <figure markdown="span">
     ![Image title](photos/zihang_yu.png){width='250' }

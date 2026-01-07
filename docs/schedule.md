@@ -13,7 +13,10 @@ Meeting times vary each academic quarter based on members' availability. In the 
 ## Winter Quarter, 2026
 | Date | Presenter | Affiliation | Topic |
 | -----| ------------------------| ---------------------------- | ---------------|
-
+| 1/27 | Jonas Schöley | Max Planck Institute for Demographic Research | Confronting the possibility of catastrophe: Identification, characterization, and simulation of mortality shocks via Hidden Markov Lee-Carter models |
+| 3/3 | Emanuele Giorgi | University of Birmingham | |
+| 3/17 | Ameer Dharamshi | UW, Department of Biostatistics | |
+| 3/24 | Silvia De Nicolò | University of Bologna | | 
 
 ## Autumn Quarter, 2025
 | Date | Presenter | Affiliation | Topic |

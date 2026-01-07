@@ -14,6 +14,7 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | Date | Presenter | Affiliation | Topic |
 | -----| ------------------------| ---------------------------- | ---------------|
 | 1/27 | Jonas Schöley | Max Planck Institute for Demographic Research | Confronting the possibility of catastrophe: Identification, characterization, and simulation of mortality shocks via Hidden Markov Lee-Carter models |
+| 2/24 | Sasha Aravkin | UW,  Department of Applied Mathematics | Fusing parametric and nonparametric estimation to obtain mortality results using heterogeneous data |
 | 3/3 | Emanuele Giorgi | University of Birmingham | |
 | 3/17 | Ameer Dharamshi | UW, Department of Biostatistics | |
 | 3/24 | Silvia De Nicolò | University of Bologna | | 

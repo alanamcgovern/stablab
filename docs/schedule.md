@@ -13,9 +13,14 @@ Meeting times vary each academic quarter based on members' availability. In the 
 ## Winter Quarter, 2026
 | Date | Presenter | Affiliation | Topic |
 | -----| ------------------------| ---------------------------- | ---------------|
+| 1/13 | Jon Wakefield | UW, Departments of Statistics & Biostatistics | Goals for 2026 |
+| 1/20 | | | |
 | 1/27 | Jonas Schöley | Max Planck Institute for Demographic Research | Confronting the possibility of catastrophe: Identification, characterization, and simulation of mortality shocks via Hidden Markov Lee-Carter models |
+| 2/3 | | | |
+| 2/10 | | | |
 | 2/24 | Sasha Aravkin | UW,  Department of Applied Mathematics | Fusing parametric and nonparametric estimation to obtain mortality results using heterogeneous data |
 | 3/3 | Emanuele Giorgi | University of Birmingham | |
+| 3/10 | Qianyu Dong | UC Santa Cruz | |
 | 3/17 | Ameer Dharamshi | UW, Department of Biostatistics | |
 | 3/24 | Silvia De Nicolò | University of Bologna | | 
 
@@ -27,9 +32,9 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | 10/14 | Jon Wakefield | UW, Departments of Statistics & Biostatistics | Automatic Variance Adjustment for Fay-Herriot Modeling  |
 | 10/21 | Abhi Datta | JHU, Department of Biostatistics | Machine learning for geospatial data with explicit modeling of spatial correlations |
 | 11/4 | David Haziza | University of Ottawa, Department of Mathematics and Statistics | A Debiased Machine Learning Single-Imputation Framework for Item Nonresponse in Surveys |
-| 11/25 | Laina Mercer | Fred Hutchinson Cancer Center | |
-| 11/25 | Victoria Knutson | UW, Department of Biostatistics | |
-| 11/25 | Alana McGovern | UW, Department of Statistics | Variance smoothing in Fay Herriot models for small area means |
+| 11/25 | Laina Mercer | Fred Hutchinson Cancer Center | Polio mapping in low- and middle-income countries |
+| 12/2 | Victoria Knutson | UW, Department of Biostatistics | Death distribution methods |
+| 12/9 | Alana McGovern | UW, Department of Statistics | Variance smoothing in Fay Herriot models for small area means |
 
 ## Spring Quarter, 2025
 | Date | Presenter | Affiliation | Topic |

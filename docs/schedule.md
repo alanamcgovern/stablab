@@ -14,10 +14,10 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | Date | Presenter | Affiliation | Topic |
 | -----| ------------------------| ---------------------------- | ---------------|
 | 1/13 | Jon Wakefield | UW, Departments of Statistics & Biostatistics | Goals for 2026 |
-| 1/20 | | | |
+| 1/20 | David Coomes | UW, Department of Epidemiology | The role of migration in rural-urban population-level mortality disparities in the US |
 | 1/27 | Jonas Schöley | Max Planck Institute for Demographic Research | Confronting the possibility of catastrophe: Identification, characterization, and simulation of mortality shocks via Hidden Markov Lee-Carter models |
-| 2/3 | | | |
-| 2/10 | | | |
+| 2/3 | Katie Paulson | UW, Department of Biostatistics | |
+| 2/10 | David Coomes | UW, Department of Epidemiology | |
 | 2/24 | Sasha Aravkin | UW,  Department of Applied Mathematics | Fusing parametric and nonparametric estimation to obtain mortality results using heterogeneous data |
 | 3/3 | Emanuele Giorgi | University of Birmingham | |
 | 3/10 | Qianyu Dong | UC Santa Cruz | |

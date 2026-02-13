@@ -18,6 +18,7 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | 1/27 | Jonas Schöley | Max Planck Institute for Demographic Research | Confronting the possibility of catastrophe: Identification, characterization, and simulation of mortality shocks via Hidden Markov Lee-Carter models |
 | 2/3 | Katie Paulson | UW, Department of Biostatistics | Multiple topics related to national and small area estimation of child mortality rates |
 | 2/10 | David Coomes | UW, Department of Epidemiology | The association of wildfire air pollution and emergency room department visits 2018-2023 |
+| 2/24 | Peter Gao | San José State University | Introduction to pseudobayes | 
 | 3/3 | Emanuele Giorgi | University of Birmingham | |
 | 3/10 | Qianyu Dong | UC Santa Cruz | |
 | 3/17 | Ameer Dharamshi | UW, Department of Biostatistics | |

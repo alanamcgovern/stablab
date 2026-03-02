@@ -6,6 +6,23 @@ hide:
 
 # Recent updates from the STAB research group
 
+### Alana McGovern passes her general exam!
+*February 25, 2026*
+
+Congratulations Alana!
+
+### New preprint by Wakefield, Jiang, and Wu
+*February 16, 2026*
+
+Automatic Variance Adjustment for Small Area Estimation (Wakefield, Jiang, and Wu) is now available: [Link](https://arxiv.org/abs/2602.14387).
+
+
+### New preprint by Paulson, Okonek, and Wakefield
+*January 28, 2026*
+
+A Survival Framework for Estimating Child Mortality Rates using Multiple Data Types (Paulson, Okonek, and Wakefield) is now available: [Link](https://arxiv.org/abs/2601.20821).
+
+
 ## 2025
 
 ### Wu et al. to appear in Annals of Applied Statistics

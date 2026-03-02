@@ -19,9 +19,8 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | 2/3 | Katie Paulson | UW, Department of Biostatistics | Multiple topics related to national and small area estimation of child mortality rates |
 | 2/10 | David Coomes | UW, Department of Epidemiology | The association of wildfire air pollution and emergency room department visits 2018-2023 |
 | 2/24 | Peter Gao | San José State University | Introduction to pseudobayes | 
-| 3/3 | Emanuele Giorgi | University of Birmingham | |
+| 3/3 | Emanuele Giorgi | University of Birmingham | A decay-adjusted spatio-temporal model to account for the impact of mass drug administration on neglected tropical disease prevalence |
 | 3/10 | Qianyu Dong | UC Santa Cruz | |
-| 3/17 | Ameer Dharamshi | UW, Department of Biostatistics | |
 | 3/24 | Silvia De Nicolò | University of Bologna | | 
 
 ## Autumn Quarter, 2025

@@ -10,6 +10,12 @@ The STAB research group meets weekly at the Hans Rosling Center for Population H
 
 Meeting times vary each academic quarter based on members' availability. In the Winter 2026 quarter, meetings are held on Tuesdays 12pm-1pm PST.
 
+## Spring Quarter, 2026
+| Date | Presenter | Affiliation | Topic |
+| -----| ------------------------| ---------------------------- | ---------------|
+| 3/31 | Jose Fernando Matta Chuquisapon | University of San Marcos | Mapping subnational socioeconomic indicators and malaria risk in highly dispersed regions using small area estimation |
+
+
 ## Winter Quarter, 2026
 | Date | Presenter | Affiliation | Topic |
 | -----| ------------------------| ---------------------------- | ---------------|

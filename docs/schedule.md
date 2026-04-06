@@ -8,7 +8,7 @@ hide:
 
 The STAB research group meets weekly at the Hans Rosling Center for Population Health and on Zoom. We use this time to update each other regarding our research progress, as well as invite presenters who work in research areas including spatial demography, survey statistics and methodology, and Bayesian modeling and computation.
 
-Meeting times vary each academic quarter based on members' availability. In the Winter 2026 quarter, meetings are held on Tuesdays 12pm-1pm PST.
+Meeting times vary each academic quarter based on members' availability. In the Spring 2026 quarter, meetings are held on Tuesdays 12pm-1pm PST.
 
 ## Spring Quarter, 2026
 | Date | Presenter | Affiliation | Topic |

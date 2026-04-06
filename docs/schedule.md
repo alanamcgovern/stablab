@@ -18,8 +18,8 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | 4/21 | Sho Kawano | UC Santa Cruz |  |
 | 5/5 | Adrien Allorant | University of Southampton | |
 | 5/12 | Willow Crawford-Crudell | UW, Biostatistics | |
-| 5/12 | Bumjun Park | UW, Biostatistics | |
-| 5/12 | Ameer Dharamshi | UW, Biostatistics | Conformalized Prevalence Mapping |
+| 5/19 | Bumjun Park | UW, Biostatistics | |
+| 5/26 | Ameer Dharamshi | UW, Biostatistics | Conformalized Prevalence Mapping |
 | 6/2 | Geir-Arne Fuglstad | Norwegian University of Science and Technology |  |
 
 

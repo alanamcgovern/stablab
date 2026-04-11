@@ -15,7 +15,7 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | -----| ------------------------| ---------------------------- | ---------------|
 | 3/31 | Jose Fernando Matta Chuquisapon | University of San Marcos | Mapping subnational socioeconomic indicators and malaria risk in highly dispersed regions using small area estimation |
 | 4/14 | Qianyu Dong | UC Santa Cruz | On cross-validation for small area estimators |
-| 4/21 | Sho Kawano | UC Santa Cruz |  |
+| 4/21 | Sho Kawano | UC Santa Cruz | On Data Thinning for Model Validation in Small Area Estimation |
 | 5/5 | Adrien Allorant | University of Southampton | |
 | 5/12 | Willow Crawford-Crudell | UW, Biostatistics | |
 | 5/19 | Bumjun Park | UW, Biostatistics | |

@@ -18,8 +18,8 @@ Meeting times vary each academic quarter based on members' availability. In the 
 | 4/21 | Sho Kawano | UC Santa Cruz | On Data Thinning for Model Validation in Small Area Estimation |
 | 4/28 | Jon Wakefield | UW, Departments of Statistics & Biostatistics | Discussion of "The Two Cultures of Prevalence Mapping: Small Area Estimation and Model-Based Geostatistics" |
 | 5/5 | Adrien Allorant | University of Southampton | A data-integration framework for subnational HIV surveillance: statistical calibration of routine facility testing using probability-survey biomarkers |
-| 5/12 | Willow Crawford-Crudell | UW, Biostatistics | |
-| 5/19 | Bumjun Park | UW, Biostatistics | |
+| 5/12 | Willow Crawford-Crudell | UW, Biostatistics | Identifying radio signals in Mozambique with highest burden of select child and maternal health outcomes using DHS data |
+| 5/19 | Bumjun Park | UW, Biostatistics | Estimating Under-5 Mortality in LMICs: An Alternative to the Log-Quadratic Model |
 | 5/26 | Ameer Dharamshi | UW, Biostatistics | Conformalized Prevalence Mapping |
 | 6/2 | Geir-Arne Fuglstad | Norwegian University of Science and Technology |  |
 
